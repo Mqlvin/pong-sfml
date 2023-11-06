@@ -27,3 +27,8 @@ To play, just execute the generated file, with `./out`<br>
 <br>
 
 Thanks for playing!
+
+<br>
+
+### Screenshot
+![Screenshot](./image.png)
