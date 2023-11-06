@@ -17,7 +17,7 @@ On Arch, simply run `pacman -S sfml gcc`<br>
 Other Linux distro's should have similar packages in their repositories.<br>
 
 #### _Building_
-To build the project, clone in into a directory, and run `make`<br>
+To build the project, clone into a directory, and run `make`<br>
 
 #### _Playing_
 To play, just execute the generated file, with `./out`<br>
